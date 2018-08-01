@@ -78,5 +78,5 @@ titanic.loc[titanic['pclass'] == 3].plot(ax=axes[2], y='fare', kind='box')
 
 # Display the plot
 plt.show()
-
+	
 
